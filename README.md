@@ -1,6 +1,6 @@
 # cinibuzz
 
-> A Vue.js project
+> A Vue.js project to display tmdb data
 
 ## Build Setup
 
